@@ -8,6 +8,7 @@ Assign points to the nearest cluster center.
 Recompute cluster centers as the mean of points in each cluster.
 Check convergence based on the change in cluster centers.
 Automatically run K-Means with 3 clusters.
+
 Optional: visualize each iteration with points colored by cluster.
 
 Usage:
@@ -30,6 +31,7 @@ scikit-learn
 Пересчёт центров кластеров как среднее значение точек в кластере.
 Проверка сходимости на основе изменения центров кластеров.
 Автоматический запуск K-Means с 3 кластерами.
+
 Опционально: визуализация каждой итерации с разными цветами для каждого кластера.
 
 Использование:
